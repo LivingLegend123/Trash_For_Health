@@ -1,0 +1,133 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+ }
+       
+
+      body{
+          background-color: rgb(194, 253, 194);
+
+      }
+
+      .head{
+        text-align: center;
+        font-size: 50px;
+        font-family: Leelawadee;
+        letter-spacing: 2px;
+        color: #000;
+      }
+
+     .lab{
+        color: black;
+        font-family: Tahoma;
+        font-weight: bold;
+        font-size: 15px;
+        padding-left: 15px;
+        padding-right: 15px;
+    
+   }
+
+   .lab_1{
+        color: black;
+        font-family: Tahoma;
+        font-weight: bold;
+        font-size: 15px;
+        padding-top: 50rem;
+        padding-left: 15px;
+        padding-right: 15px;
+   }
+
+      legend{
+         color: rgb(4, 85, 49);
+         font-family: Tahoma;
+         font-weight: bold;
+         font-size: 20px;
+         padding-left: 50px;
+         padding-bottom: 30px;
+
+   }
+
+     .input{
+         background-color: paleturquoise;
+         width: 90%;
+         min-height: 50px;
+         border-radius: 25px;
+         border-color: black;
+         border-width: 5px;
+         margin-left: 15px;
+         padding-left: 15px;
+         font-size: 15px;
+   }
+
+   .input_1{
+         background-color: paleturquoise;
+         width: 90%;
+         min-height: 50px;
+         border-radius: 25px;
+         border-color: black;
+         border-width: 5px;
+         margin-left: 2px;
+         padding-left: 10px;
+         font-size: 15px;
+         margin-bottom: 30px;
+   }
+
+   .input_2{
+         background-color: paleturquoise;
+         width: 90%;
+         min-height: 50px;
+         border-radius: 25px;
+         border-color: black;
+         border-width: 5px;
+         margin-left: 115px;
+         padding-left: 15px;
+         font-size: 15px;
+   }
+
+   .pass{
+    background-color: paleturquoise;
+    width: 90%;
+    min-height: 50px;
+    border-radius: 25px;
+    border-color: black;
+    border-width: 5px;
+    font-size: 15px;
+    padding-left: 15px;
+   }
+
+   .bar{
+    height: 40px;
+    width: 10rem;
+    margin-left: 48%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background-color: black;
+    border-color: white;
+    border-width: 2.5px;
+   }
+
+   .bar a{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+   }
+
+   .bar_1{
+    height: 40px;
+    width: 15rem;
+    margin-left: 45%;
+    margin-top: 10pxpx;
+    border-radius: 25px;
+    background-color: yellow;
+    border-color: black;
+    border-width: 2.5px;
+    color: black;
+    font-weight: bold;
+    font-size: 15px
+   }
+
